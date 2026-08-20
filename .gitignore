@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pkl
+*.pyc
+.env
+logs/
+*.log
+*.csv
+venv/
+.venv/
+dist/
+*.egg-info/
+all_code.txt

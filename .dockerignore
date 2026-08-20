@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+.git/
+*.md
+*.log
+logs/
+test_*.py
+test_*.html
+*_COMPLETE.md
+all_code.txt
